@@ -31,6 +31,7 @@ function guessNumber(n: number): number {
       start = mid +1
     }
   }
+  return -1
 };
 // @lc code=end
 
