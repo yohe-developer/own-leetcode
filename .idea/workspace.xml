@@ -1,245 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2a10bdcd-a7a1-45ee-9b06-258c34250f60" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/CSS/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/WeakMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/defineProperty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/proxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/toPrimitive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/JS_API/while_for.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/SQL/English.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/SQL/基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/SQL/汇总数据.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/SQL/计算字段.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/2.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/寄生组合式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/构造函数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/类式继承.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/JavaScript/组合继承.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/a.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/中介者.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/中介者.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/享元模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/享元模式.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/代理模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/单例模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/原型模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/命令模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/命令模式.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/备忘录.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/外观模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/工厂方法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/建造者模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/抽象工厂.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/桥接模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/桥接模式.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/概念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/模板方法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/状态模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/策略模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/简单工厂.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/组合模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/职责链.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/职责链.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/职责链模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/装饰器模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/观察者模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/解释器模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/迭代器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/design/大话设计模式/适配器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/echart/bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/echart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/echart/looptooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/html/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/html/helloWorld.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/LazyMan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/deepClone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/race.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/subarraySum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/subarraySum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/twoSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/twoSum2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/vue生命周期.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/zeroMove.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/interview/缓存.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/1.两数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/101.对称二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/102.二叉树的层序遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/102.二叉树的层序遍历.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/Sub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/canPlaceFlowers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/countSegments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/generateTheString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/isPalindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/makeGood.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/maxLengthBetweenEqualCharacters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/maximumWealth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/modifyString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/repeatedSubstringPattern.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/reverseOnlyLetters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/2.8/括号的最大嵌套深度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/27.移除元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/278.第一个错误的版本.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/559.n-叉树的最大深度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/559.n-叉树的最大深度.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/704.二分查找.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/704.二分查找.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/977.有序数组的平方.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/flatten.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/Tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/fib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/generate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/maxDepth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/reverseList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/reverseString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/swapPairs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/recursion/递归.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/removeDuplicates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/寻找数组的中心索引.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode-cn/搜索插入位置.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/1.two-sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/1.two-sum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/1.两数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/100.相同的树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/101.对称二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/102.二叉树的层序遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/103.二叉树的锯齿形层次遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/104.二叉树的最大深度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/105.从前序与中序遍历序列构造二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/106.从中序与后序遍历序列构造二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/107.二叉树的层次遍历-ii.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/108.将有序数组转换为二叉搜索树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/11.盛最多水的容器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/110.平衡二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/111.二叉树的最小深度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/112.路径总和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/136.只出现一次的数字.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/14.longest-common-prefix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/14.最长公共前缀.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/1408.数组中的字符串匹配.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/144.二叉树的前序遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/145.二叉树的后序遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/20.有效的括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/21.合并两个有序链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/26.删除排序数组中的重复项.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/27.移除元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/28.实现-str-str.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/290.单词规律.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/3.无重复字符的最长子串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/35.搜索插入位置.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/371.两整数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/374.猜数字大小.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/38.外观数列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/387.字符串中的第一个唯一字符.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/4.寻找两个有序数组的中位数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/53.最大子序和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/58.最后一个单词的长度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/66.加一.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/671.二叉树中第二小的节点.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/69.x-的平方根.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/690.员工的重要性.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/7.reverse-integer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/7.整数反转.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/70.爬楼梯.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/83.删除排序链表中的重复元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/88.合并两个有序数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/9.palindrome-number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/9.回文数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/94.二叉树的中序遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/98.验证二叉搜索树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/993.二叉树的堂兄弟节点.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/addBinary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/add_two_numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/brokenCalc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/creatNode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/isAdditiveNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/jumpFloor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/markdown/DynamicProgramming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/minSteps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/oddCells.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/permute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/threeSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/threeSum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/twoSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/twoSum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/workspace.code-workspace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/对角线遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/寻找中心索引.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/岛屿数量.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/至少是其他数字两倍的最大数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/leetcode/队列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/FunctionalProgramming/1.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/GIT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/Http.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/Typescript/基本概念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/UI/semi-card.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/函数式编程/lodash/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/异步和性能.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/类型转换.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/readBook/语法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/Huffman_tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/LinkList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/Stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/Str.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/circularLinkList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/kmp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/middleNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/middleNumber.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/strIndex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/tree/tree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/utils/eharts-tooltips.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/utils/iframe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/utils/ua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/utils/排序版本号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/proxy/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/proxy/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/config/webpack.base.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/config/webpack.client.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/config/webpack.server.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/components/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/components/Item.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/entry-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/entry-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/index.ssr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue-ssr/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/vue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/依赖收集/Dep.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/依赖收集/Observer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/依赖收集/Watcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/vue/依赖收集/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/xmind/GIT.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/xmind/JavaScript函数式编程指南.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/xmind/flutter布局相关.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/xmind/tiny-compiler .xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/xmind/异步和性能.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,12 +43,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/qin/Github/playground",
+    "last_opened_file_path": "/Users/qin/amateur/own-leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ssh.settings",
+    "settings.editor.selected.configurable": "labuladong.id",
+    "ts.external.directory.path": "/Users/qin/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.8214.51/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -309,6 +81,10 @@
       <option name="presentableId" value="Default" />
       <updated>1666604093967</updated>
       <workItem from="1666604097263" duration="4962000" />
+      <workItem from="1675817739743" duration="199000" />
+      <workItem from="1675818140213" duration="401000" />
+      <workItem from="1675818580816" duration="186000" />
+      <workItem from="1675818785509" duration="382000" />
     </task>
     <servers />
   </component>
