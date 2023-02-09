@@ -25,3 +25,5 @@ function search(nums: number[], target: number): number {
 };
 // @lc code=end
 
+
+search([0, 1, 0], 1)
