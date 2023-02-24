@@ -1,10 +1,15 @@
+/**
+ * 
+ * @param nums 
+ * @returns 
+ */
 function findRepeatNumber(nums: number[]): number {
     const temp:any = {}
     for(let i = 0 ; i< nums.length; i++){
         if(!temp[nums[i]]){
             temp[nums[i]] = 0
         }
-        temp[nums[i]]+=1
+        temp[nums[i]] += 1;
         if(temp[nums[i]]>1){
             return nums[i]
         } 

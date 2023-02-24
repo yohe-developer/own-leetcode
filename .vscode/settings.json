@@ -1,4 +1,7 @@
 {
   "deno.enable": true,
-  "deno.unstable": true
+  "deno.unstable": true,
+  "docwriter.style": "JSDoc",
+  "docwriter.progress.trackFunctions": false,
+  "docwriter.progress.trackClasses": true
 }
